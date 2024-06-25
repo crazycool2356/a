@@ -1,0 +1,13 @@
+#r{border:solid black 2px;background-color:red;transition: all 0.25s ease 0s;}
+#y{border:solid black 2px;background-color:yellow;transition: all 0.25s ease 0s;}
+#g{border:solid black 2px;background-color:lime;transition: all 0.25s ease 0s;}
+#b{border:solid black 2px;background-color:blue;transition: all 0.25s ease 0s;}
+#r:hover{font-size:100%}
+#y:hover{font-size:100%}
+#g:hover{font-size:100%}
+#b:hover{font-size:100%}
+#r:active{background-color:maroon;}
+#y:active{background-color:gold;}
+#g:active{background-color:green;}
+#b:active{background-color:navy;}
+#sampletext{position:static;}
